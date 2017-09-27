@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Selenium\JDK" version="1.8.0_131">
+<bootpath>
+<entry path="C:\Selenium\JDK\lib\resources.jar"/>
+<entry path="C:\Selenium\JDK\lib\rt.jar"/>
+<entry path="C:\Selenium\JDK\lib\sunrsasign.jar"/>
+<entry path="C:\Selenium\JDK\lib\jsse.jar"/>
+<entry path="C:\Selenium\JDK\lib\jce.jar"/>
+<entry path="C:\Selenium\JDK\lib\charsets.jar"/>
+<entry path="C:\Selenium\JDK\lib\jfr.jar"/>
+<entry path="C:\Selenium\JDK\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Selenium\JDK\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Selenium\JDK\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

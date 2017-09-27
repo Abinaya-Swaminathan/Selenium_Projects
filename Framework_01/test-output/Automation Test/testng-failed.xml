@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Test]">
+  <test name="Smoke Testcases(failed)">
+    <classes>
+      <class name="testngFiles.Annotations2">
+        <methods>
+          <include name="installSoftware"/>
+          <include name="uninstallSoftware"/>
+        </methods>
+      </class> <!-- testngFiles.Annotations2 -->
+      <class name="testngFiles.Annotations">
+        <methods>
+          <include name="flightBooking"/>
+          <include name="cookiesclose"/>
+          <include name="cookies"/>
+          <include name="reportAdding"/>
+          <include name="useridGeneration"/>
+        </methods>
+      </class> <!-- testngFiles.Annotations -->
+    </classes>
+  </test> <!-- Smoke Testcases(failed) -->
+</suite> <!-- Failed suite [Automation Test] -->

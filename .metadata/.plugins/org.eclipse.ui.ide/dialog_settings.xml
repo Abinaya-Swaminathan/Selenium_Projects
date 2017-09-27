@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Selenium_Projects\oxygen\Framework"/>
+		<item value="D:\Selenium_Projects\Practice1"/>
+		<item value="D:\Selenium_Projects\Login_gmail"/>
+		<item value="D:\Selenium_Projects\Framework"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>

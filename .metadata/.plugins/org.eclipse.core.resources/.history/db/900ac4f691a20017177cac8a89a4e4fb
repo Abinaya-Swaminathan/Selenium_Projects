@@ -1,0 +1,17 @@
+
+public class Swapping_of_two_numbers {
+	{
+		int i;
+		static void test(E e1,E e2)
+		{
+			int temp = e1.i;
+			e1.i=e2.i;
+			e2.i=temp;
+		}
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+}

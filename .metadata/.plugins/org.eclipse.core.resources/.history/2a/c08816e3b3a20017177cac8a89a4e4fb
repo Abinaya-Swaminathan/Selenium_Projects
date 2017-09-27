@@ -1,0 +1,13 @@
+
+public class Strings_are_immutable {
+
+	public static void main(String[] args) {
+		String rv1="Shah";
+		String rv2="Shah";
+		String rv3="Shah";
+		
+				
+
+	}
+
+}

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15266" started-at="2017-08-23T07:36:36Z" finished-at="2017-08-23T07:36:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15266" started-at="2017-08-23T07:36:36Z" finished-at="2017-08-23T07:36:51Z">
+      <class name="datadriven.Annotations">
+        <test-method status="PASS" signature="installSoftware()[pri:0, instance:datadriven.Annotations@28d25987]" name="installSoftware" is-config="true" duration-ms="16" started-at="2017-08-23T13:06:36Z" finished-at="2017-08-23T13:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- installSoftware -->
+        <test-method status="PASS" signature="cookies()[pri:0, instance:datadriven.Annotations@28d25987]" name="cookies" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:36Z" finished-at="2017-08-23T13:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+        <test-method status="PASS" signature="inheritance()[pri:0, instance:datadriven.Annotations@28d25987]" name="inheritance" duration-ms="7739" started-at="2017-08-23T13:06:36Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inheritance -->
+        <test-method status="PASS" signature="useridGeneration()[pri:0, instance:datadriven.Annotations@28d25987]" name="useridGeneration" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:36Z" finished-at="2017-08-23T13:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridGeneration -->
+        <test-method status="PASS" signature="reportAdding()[pri:0, instance:datadriven.Annotations@28d25987]" name="reportAdding" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportAdding -->
+        <test-method status="PASS" signature="userid(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadriven.Annotations@28d25987]" name="userid" duration-ms="2" started-at="2017-08-23T13:06:44Z" data-provider="getData" finished-at="2017-08-23T13:06:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1abcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1hij]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userid -->
+        <test-method status="PASS" signature="useridGeneration()[pri:0, instance:datadriven.Annotations@28d25987]" name="useridGeneration" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridGeneration -->
+        <test-method status="PASS" signature="reportAdding()[pri:0, instance:datadriven.Annotations@28d25987]" name="reportAdding" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportAdding -->
+        <test-method status="PASS" signature="useridGeneration()[pri:0, instance:datadriven.Annotations@28d25987]" name="useridGeneration" is-config="true" duration-ms="1" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridGeneration -->
+        <test-method status="PASS" signature="userid(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadriven.Annotations@28d25987]" name="userid" duration-ms="2" started-at="2017-08-23T13:06:44Z" data-provider="getData" finished-at="2017-08-23T13:06:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2abcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2hij]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userid -->
+        <test-method status="PASS" signature="reportAdding()[pri:0, instance:datadriven.Annotations@28d25987]" name="reportAdding" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportAdding -->
+        <test-method status="PASS" signature="useridGeneration()[pri:0, instance:datadriven.Annotations@28d25987]" name="useridGeneration" is-config="true" duration-ms="1" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridGeneration -->
+        <test-method status="PASS" signature="userid(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadriven.Annotations@28d25987]" name="userid" duration-ms="1" started-at="2017-08-23T13:06:44Z" data-provider="getData" finished-at="2017-08-23T13:06:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3abcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3hij]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userid -->
+        <test-method status="PASS" signature="reportAdding()[pri:0, instance:datadriven.Annotations@28d25987]" name="reportAdding" is-config="true" duration-ms="3" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportAdding -->
+        <test-method status="PASS" signature="useridGeneration()[pri:0, instance:datadriven.Annotations@28d25987]" name="useridGeneration" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridGeneration -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:datadriven.Annotations@28d25987]" name="Login" duration-ms="7483" started-at="2017-08-23T13:06:44Z" finished-at="2017-08-23T13:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="reportAdding()[pri:0, instance:datadriven.Annotations@28d25987]" name="reportAdding" is-config="true" duration-ms="1" started-at="2017-08-23T13:06:51Z" finished-at="2017-08-23T13:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportAdding -->
+        <test-method status="PASS" signature="cookiesclose()[pri:0, instance:datadriven.Annotations@28d25987]" name="cookiesclose" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:51Z" finished-at="2017-08-23T13:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesclose -->
+        <test-method status="PASS" signature="uninstallSoftware()[pri:0, instance:datadriven.Annotations@28d25987]" name="uninstallSoftware" is-config="true" duration-ms="0" started-at="2017-08-23T13:06:51Z" finished-at="2017-08-23T13:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uninstallSoftware -->
+      </class> <!-- datadriven.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

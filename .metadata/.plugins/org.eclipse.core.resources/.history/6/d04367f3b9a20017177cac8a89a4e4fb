@@ -1,0 +1,9 @@
+
+public class Count_occurance_of_given_character_in_a_string {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

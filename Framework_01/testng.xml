@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation Test">
+	<test name="Smoke Testcases">
+		<classes>
+			<class name="testngFiles.Annotations2" />
+			<class name="testngFiles.DependencyAnnotatins" />
+		</classes>
+	</test>
+</suite>
+
+<!-- <"Above is Class Level Execution"> -->
+<!-- <To "Comment a line in .xml press (crtl+shift+/)"/> -->
+<!-- <To "Uncomment a line in .xml press (crtl+shift+\)"/> -->

@@ -1,0 +1,16 @@
+
+public class Swap_two_no_without_temp {
+
+	public static void main(String[] args) {
+		int a=20; 
+		int b=10;
+		
+		a = a+b;
+		a = a-b;
+		b = a-b;
+		
+		
+
+	}
+
+}
